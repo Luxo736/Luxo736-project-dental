@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 =======
 # Project Title
 
@@ -10,10 +10,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisities
 
-What things you need to install the software and how to install them
-Python 3   adding link
 ```
-Give examples
+Ubuntu 16.04 LTS :https://www.ubuntu.com/download
+This is needed for operating system for personal computers and also runs network servers.
+
+
+Python 3.5.2: https://www.python.org/downloads/release/python-350/
+You need to download to interpreted, object-oriented, high-level programming language with dynamic semantics.
+
+Visual Studio : https://www.visualstudio.com/downloads/
+It is used to develop computer programs in linux. It can produce both native code and managed code and essential for testing code.
+
 ```
 
 ### Installing
