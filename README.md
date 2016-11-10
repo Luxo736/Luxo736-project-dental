@@ -23,23 +23,23 @@ It is used to develop computer programs in linux. It can produce both native cod
 
 ### Installing
 
-1 You have to donwnload the "Luxo736-project-dental" 
-2 In your terminal , use the comands to open Luxo736-project-dental and find inside the file "Obsidian seeker.ipynb"
-3 Use the comands to get into Jupyter Notebook once you are in Obsidian seeker.ipynb.
-4 An emergent window will display the whole files contained in Luxo736-project-dental. Please select Luxo736-project-dental.
+1. You have to donwnload the "Luxo736-project-dental".
+2. In your terminal , use the comands to open Luxo736-project-dental and find inside the file "Obsidian seeker.ipynb".
+3. Use the comands to get into Jupyter Notebook once you are in Obsidian seeker.ipynb.
+4. An emergent window will display the whole files contained in Luxo736-project-dental. Please select Luxo736-project-dental.
 * if you are more familiar with script another option could be replacying the extension .ipynb by .py. the program will run the software in the same way.( syntaxis may change slighly according to different versions)Hightly recomended for test functions.
 
 ### Manipulate data files
 
-5.Start by importing you CSV file.
-6.With the function "read_my_file" open the content to verify your data.
-7.Your data now is ready to be splitted in rows.
-8.Differenciate every single piece of "datarows" with the imput print "cell_values"
-9.To measure the quantity of data manipulated type "obs_dict" and press enter.
+5. Start by importing you CSV file.
+6. With the function "read_my_file" open the content to verify your data.
+7. Your data now is ready to be splitted in rows.
+8. Differenciate every single piece of "datarows" with the imput print "cell_values"
+9. To measure the quantity of data manipulated type "obs_dict" and press enter.
 
 ### Once data is identify.Keywords.
 
-10.Type "help" as Keyword to optain following options:
+10. Type "help" as Keyword to optain following options:
 ```
  if userinput == 'help':
                 print("List of commands:")
@@ -71,8 +71,8 @@ if userinput == "Sample_Type":
                                 indexes.append(x)
 
 ```
- 15. To identify groups (labels). You have to type "List " this will retrieve "'Type in the column you wish to list: "
- 16 Use the subcomands: sample_type, study , area, source_specific, sample_ID,xrd_setting and source to diplay any location associated with the number in the sample list:
+15. To identify groups (labels). You have to type "List " this will retrieve "'Type in the column you wish to list: "
+16. Use the subcomands: sample_type, study , area, source_specific, sample_ID,xrd_setting and source to diplay any location associated with the number in the sample list:
  ```
  if userinput == "List":
                     subcommand = input('Type in the column you wish to list: ')
@@ -83,10 +83,10 @@ if userinput == "Sample_Type":
                             print(Sample_Types[10])
  
  ```
-17 Once you identify the association type " keys" this will give you options to "Exit" or continue the program
-18 Any imput equivalent to "0"  will return: "Nothing matches input specifications"
-19 A final option will give you the chances to reduce you results . choose y or N.
-20 Additional samples regarding to count lines rows and sample type colum is optional with the imput "o_dict"
+17. Once you identify the association type " keys" this will give you options to "Exit" or continue the program
+18. Any imput equivalent to "0"  will return: "Nothing matches input specifications"
+19. A final option will give you the chances to reduce you results . choose y or N.
+20. Additional samples regarding to count lines rows and sample type colum is optional with the imput "o_dict"
 
 ## Contributions
 
