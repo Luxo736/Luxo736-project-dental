@@ -10,12 +10,12 @@
 
 ## Success Criteria
 
-- Obtain basic instrucction to use Python software in order to organize networks of obsidian objects.
-- Obtain knowledge based on team members experiences.
-- Improve team members dialog to solve issues related to individual projects.
-- Programming  Python software according to project necessities.
-- Obtain good grades to continue further studies.
-- Develop new skills in computer programming
+- Develop a piece of software that helps to analize obsidian objects.
+- Improve skills on computer programming and python language.
+- Develop a code that suggest relations between common features of obsidian objects.
+- Programming test functions to ensure the performance of the product.
+- Obtain additional experience on similar programming languages such as Script.
+- Complete regulations and understand licensing for software publication.
 
 ## Behaviour Agreement
 
